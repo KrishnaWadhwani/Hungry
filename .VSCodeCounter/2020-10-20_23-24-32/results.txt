@@ -1,0 +1,52 @@
+Date : 2020-10-20 23:24:32
+Directory : /opt/lampp/htdocs/Hungry1
+Total : 24 files,  2735 codes, 159 comments, 289 blanks, all 3183 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| PHP        |         17 |      2,222 |        101 |        196 |      2,519 |
+| JavaScript |          5 |        429 |         56 |         82 |        567 |
+| CSS        |          1 |         42 |          0 |          3 |         45 |
+| HTML       |          1 |         42 |          2 |          8 |         52 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                       | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                          |         24 |      2,735 |        159 |        289 |      3,183 |
+| js                                                         |          5 |        429 |         56 |         82 |        567 |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                   | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /opt/lampp/htdocs/Hungry1/abdriver.php                     | PHP        |        166 |         13 |         32 |        211 |
+| /opt/lampp/htdocs/Hungry1/cart.php                         | PHP        |        127 |         11 |         13 |        151 |
+| /opt/lampp/htdocs/Hungry1/db_connect.php                   | PHP        |          7 |          1 |          2 |         10 |
+| /opt/lampp/htdocs/Hungry1/detail.php                       | PHP        |        166 |         13 |         32 |        211 |
+| /opt/lampp/htdocs/Hungry1/di.php                           | PHP        |         57 |          0 |         10 |         67 |
+| /opt/lampp/htdocs/Hungry1/footer.php                       | PHP        |         52 |          0 |          3 |         55 |
+| /opt/lampp/htdocs/Hungry1/homepage.php                     | PHP        |        382 |         12 |         19 |        413 |
+| /opt/lampp/htdocs/Hungry1/insert1.php                      | PHP        |         99 |          2 |         10 |        111 |
+| /opt/lampp/htdocs/Hungry1/js/datepicker-detail.111bc2ff.js | JavaScript |         32 |          2 |          1 |         35 |
+| /opt/lampp/htdocs/Hungry1/js/demo.36f8799a.js              | JavaScript |         17 |          3 |          9 |         29 |
+| /opt/lampp/htdocs/Hungry1/js/map-detail.ecc97be1.js        | JavaScript |         60 |          0 |         10 |         70 |
+| /opt/lampp/htdocs/Hungry1/js/map-layers.f6cf9b57.js        | JavaScript |          8 |          0 |          2 |         10 |
+| /opt/lampp/htdocs/Hungry1/js/theme.55f8348b.js             | JavaScript |        312 |         51 |         60 |        423 |
+| /opt/lampp/htdocs/Hungry1/login.html                       | HTML       |         42 |          2 |          8 |         52 |
+| /opt/lampp/htdocs/Hungry1/logout.php                       | PHP        |          6 |          0 |          0 |          6 |
+| /opt/lampp/htdocs/Hungry1/logsess.php                      | PHP        |         53 |          1 |          6 |         60 |
+| /opt/lampp/htdocs/Hungry1/navbar.php                       | PHP        |        182 |          0 |          2 |        184 |
+| /opt/lampp/htdocs/Hungry1/order.php                        | PHP        |        229 |         14 |         21 |        264 |
+| /opt/lampp/htdocs/Hungry1/required.php                     | PHP        |         11 |          0 |          0 |         11 |
+| /opt/lampp/htdocs/Hungry1/signin.css                       | CSS        |         42 |          0 |          3 |         45 |
+| /opt/lampp/htdocs/Hungry1/signup.php                       | PHP        |         50 |          0 |          6 |         56 |
+| /opt/lampp/htdocs/Hungry1/user-cart.php                    | PHP        |        184 |         14 |         14 |        212 |
+| /opt/lampp/htdocs/Hungry1/view.php                         | PHP        |        210 |         11 |         23 |        244 |
+| /opt/lampp/htdocs/Hungry1/view1.php                        | PHP        |        241 |          9 |          3 |        253 |
+| Total                                                      |            |      2,735 |        159 |        289 |      3,183 |
++------------------------------------------------------------+------------+------------+------------+------------+------------+
